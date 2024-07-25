@@ -1,0 +1,1 @@
+Notes Application:This is a simple, yet functional Notes application built using HTML, CSS, and JavaScript. The application allows users to create, store, and retrieve notes. Each note can be edited or deleted, and all notes are stored in the browser's local storage.
